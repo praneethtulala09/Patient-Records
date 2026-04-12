@@ -1,0 +1,25 @@
+{
+  "name": "patient-records-v3",
+  "version": "3.0.0",
+  "description": "Patient Records System v3 - Full Stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["patient", "records", "fullstack", "mongodb"],
+  "author": "Praneeth",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "mongodb": "^5.0.0",
+    "mongoose": "^7.0.0",
+    "dotenv": "^16.0.3",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

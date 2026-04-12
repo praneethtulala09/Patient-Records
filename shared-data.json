@@ -1,0 +1,23 @@
+{
+  "patients": [
+    {
+      "id": "1775998491382",
+      "name": "praneeth",
+      "email": "praneeth@gmail.com",
+      "phone": "9014463260",
+      "createdAt": "2026-04-12T12:54:51.382Z"
+    },
+    {
+      "id": "1775998687835",
+      "name": "dhanush",
+      "email": "dhanush@gmail.com",
+      "phone": "7788990088",
+      "dateOfBirth": "2008-12-10",
+      "address": "pidugu",
+      "createdAt": "2026-04-12T12:58:07.835Z",
+      "updatedAt": "2026-04-12T12:58:07.835Z"
+    }
+  ],
+  "appointments": [],
+  "prescriptions": []
+}
