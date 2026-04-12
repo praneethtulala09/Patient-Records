@@ -1,0 +1,21 @@
+{
+  "name": "patient-records-v1",
+  "version": "1.0.0",
+  "description": "Patient Records System v1 - Basic",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["patient", "records"],
+  "author": "Praneeth",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
